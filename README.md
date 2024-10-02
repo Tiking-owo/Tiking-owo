@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🐾Lc_Tiking🐾 | 📖 Student | Hangzhou, China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> width="30"> 🐾Lc_Tiking🐾 | 📖 Student | Hangzhou, China </h3>
 </div>
    </p>
 
