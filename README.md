@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<h3> width="30"> 🐾Lc_Tiking🐾 | 📖 Student | Hangzhou, China </h3>
+<h3> 🐾Lc_Tiking🐾 | 📖 Student | Hangzhou, China </h3>
 </div>
    </p>
 
