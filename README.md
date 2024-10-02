@@ -21,8 +21,15 @@
   </a>
 
 </p>
+<p align="center">
+  <h3>I am a 17-year-old student from China.</h3>
+</p>
 
-<br />
+ - 📖 Learn HTML and Vue.js
+  
+ - 🐾 It's Furry Control🐾
+
+ - Good at configuring Minecraft servers, and web servers.
 
 
 ### - Languages and Tools...
