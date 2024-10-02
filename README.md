@@ -11,7 +11,18 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🐾Lc_Tiking🐾 | 📖 Student | Hangzhou, China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiking-owo&theme=ambient_gradient&show_icons=true)
+   </p>
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Tiking-owo&theme=ambient_gradient&show_icons=true"/>
+  </a>
+
+</p>
+
+<br />
 
 
 ### - Languages and Tools...
