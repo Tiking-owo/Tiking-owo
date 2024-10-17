@@ -23,16 +23,20 @@
 </p>
 <p align="center">
   <h3>I am a 17-year-old student from China.</h3>
+   <h4>我是一名来自中国的17岁学生。</h4>
 </p>
 
  - 📖 Learn HTML and Vue.js
+ - 📖学习HTML和Vue.js
   
  - 🐾 It's Furry Control🐾
-
+ - 🐾是福瑞控🐾
+   
  - Good at configuring Minecraft servers, and web servers.
+ - 擅长配置Minecraft服务器和网页服务器。
 
 
-### - Languages and Tools...
+### - 语言和工具-Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
