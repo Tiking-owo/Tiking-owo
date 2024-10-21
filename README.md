@@ -2,9 +2,6 @@
    <h1>🐾Hi there, I'm <a href="https://hemant.codes">皪澄_Tiking</a> 🐾 </h1>
 </div>
 
-<p align='center'>
-<a href="https://twitter.com/Lc_Tiking"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- </p>
 
 
 
