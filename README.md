@@ -12,10 +12,8 @@
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Tiking-owo&theme=ambient_gradient&show_icons=true"/>
-  </a>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tiking-owo&custom_title=%E7%9A%AA%E6%BE%84%E7%9A%84GitHub%E7%BB%9F%E8%AE%A1&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=Tiking-owo&custom_title=%E7%9A%AA%E6%BE%84%E7%9A%84GitHub%E7%BB%9F%E8%AE%A1&show_icons=true&include_all_commits=true&theme=shadow_red)
 
 </p>
 <p align="center">
